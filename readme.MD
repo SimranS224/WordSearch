@@ -2,9 +2,7 @@
 
 A modification of hangman where users can pick a length of their challenge word and can choose the number of guesses they have.
 
-## Want to challenge yourself
-
-### How to play 
+### How to play
 
 1. Clone the repo
 2. run ```make all```
@@ -13,3 +11,4 @@ A modification of hangman where users can pick a length of their challenge word 
 5. Choose the number of guesses you get.
 6. Start guessing 
 
+#### Want to challenge yourself ?
