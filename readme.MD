@@ -10,5 +10,3 @@ A modification of hangman where users can pick a length of their challenge word 
 4. Choose a valid length
 5. Choose the number of guesses you get.
 6. Start guessing 
-
-#### Want to challenge yourself ?
